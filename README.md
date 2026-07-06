@@ -73,24 +73,12 @@ The goal isn't perfection. The goal is consistency — and building toward my fi
 
 ---
 
-## 📂 Repository Structure
-
-Every project in this profile follows the same structure:
-
-```
-project-name/
-├── main.py          # The main script
-├── README.md        # What it does, how to run it, what I learned
-└── notes.md         # My personal learning notes while building
-```
-
----
 
 ## 🔗 Find Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Seeban-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-seeban)
 [![GitHub](https://img.shields.io/badge/GitHub-muhammad--seeban-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/muhammad-seeban)
-
+[![Discord](https://img.shields.io/badge/Discord-unitedstatesbank-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/unitedstatesbank)
 ---
 
 ## 💬 Want to Connect?
