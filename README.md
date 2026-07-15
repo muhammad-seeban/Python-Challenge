@@ -59,9 +59,9 @@ Data with Baraa — Python Ultimate Course (13 hrs, 47 videos)
 
 ## 📅 The Challenge
 
-**#100DaysPython → Cybersecurity**
+**#45DaysPython → Cybersecurity**
 
-Every day for 100 days I am:
+Every day for 45 days I am:
 - 📖 Learning a new Python concept from the course
 - 💻 Writing and committing real code
 - 🐛 Solving at least one problem or challenge
@@ -69,7 +69,7 @@ Every day for 100 days I am:
 
 The goal isn't perfection. The goal is consistency — and building toward my first real cybersecurity tool by Day 100.
 
-**Current streak:** Day 2 🔥
+**Current streak:** Day 5 🔥
 
 ---
 
