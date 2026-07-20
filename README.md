@@ -1,6 +1,6 @@
 # Hey, I'm Seeban 👋
 
-**15-year-old from Sargodha, Pakistan — learning Python in public to become a Cybersecurity Professional.**
+**15-year-old from Sargodha, Pakistan  learning Python in public to become a Cybersecurity Professional.**
 
 I don't wait. I build now.
 
@@ -83,13 +83,13 @@ The goal isn't perfection. The goal is consistency — and building toward my fi
 
 ## 💬 Want to Connect?
 
-If you're a **Python learner** following a similar path — let's connect and keep each other accountable.
+If you're a **Python learner** following a similar path let's connect and keep each other accountable.
 
-If you're a **cybersecurity professional** — I'd genuinely love advice on what to learn next.
+If you're a **cybersecurity professional**  I'd genuinely love advice on what to learn next.
 
-If you're just **watching a 15-year-old build** — welcome. This is going to be a good story.
+If you're just **watching a 15y/o build**  welcome. This is going to be a good story.
 
-DM me on LinkedIn anytime. 🔐
+DM me on LinkedIn anytime. 
 
 ---
 
